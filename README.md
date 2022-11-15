@@ -1,5 +1,12 @@
 # NFT_Blockchain
 
+# Name - Avinash Matcha
+
+# GitHub Link - https://github.com/Avinash9596/NFT_Blockchain
+
+
+
+
 1. Requires Python 3, which may be installed via a variety of internet sites depending on your platform if you don't already have it.
 2. With Python3's -m venv command, create a virtual environment.
 3. Utilize source venv/bin/activate to set up your virtual environment (For Mac and Linux).
